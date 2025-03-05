@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+'Digite su Sexo '
+5
+1
+1
+s
+4
+1
+30
+'Digite el valor de la compra'
+5
+1
+1
+v
+7
+0
+1
+8
+v>100000
+4
+1
+1
+v
+13
+7
+0
+1
+3
+s=1
+6
+1
+1
+v
+10
+v-(v*0.10)
+13
+6
+1
+1
+v
+9
+v-(v*0.2)
+13
+4
+1
+36
+'El valor total con descuento es ',v
+13
+1
